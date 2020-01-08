@@ -44,8 +44,8 @@ public class Pessoa {
 		this.listaTelefone = listaTelefone;
 	}
 
-	public String toString() {
-		return "Nome Completo: " + nomeCompleto +
-				"\nApelido: " + apelido;
-	}
+//	public String toString() {
+//		return "Nome Completo: " + nomeCompleto +
+//				"\nApelido: " + apelido;
+//	}
 }
