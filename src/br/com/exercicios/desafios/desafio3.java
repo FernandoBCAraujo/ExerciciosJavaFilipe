@@ -1,6 +1,6 @@
 package br.com.exercicios.desafios;
 
-public class desafio3 {
+public class Desafio3 {
 
 	public static void main(String[] args) {
 
